@@ -1,0 +1,5 @@
+Setting Bitnami application password 
+
+0R4SI02JDpmr
+
+user@example.com

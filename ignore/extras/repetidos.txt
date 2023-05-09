@@ -1,0 +1,65 @@
+[
+  RowDataPacket {
+    id_product: 33016,
+    id_supplier: 4,
+    reference: '192444',
+    date_add: 2022-02-17T20:46:35.000Z,
+    date_upd: 2022-02-17T20:46:35.000Z
+  },
+  RowDataPacket {
+    id_product: 33020,
+    id_supplier: 4,
+    reference: '74249',
+    date_add: 2022-02-17T20:46:57.000Z,
+    date_upd: 2022-02-17T20:46:57.000Z
+  },
+  RowDataPacket {
+    id_product: 33023,
+    id_supplier: 4,
+    reference: '143895',
+    date_add: 2022-02-17T20:47:15.000Z,
+    date_upd: 2022-02-17T20:47:15.000Z
+  },
+  RowDataPacket {
+    id_product: 33216,
+    id_supplier: 4,
+    reference: '192444',
+    date_add: 2022-02-17T21:07:40.000Z,
+    date_upd: 2022-02-17T21:07:40.000Z
+  },
+  RowDataPacket {
+    id_product: 33217,
+    id_supplier: 4,
+    reference: '87824',
+    date_add: 2022-02-17T21:07:47.000Z,
+    date_upd: 2022-02-17T21:07:47.000Z
+  },
+  RowDataPacket {
+    id_product: 33219,
+    id_supplier: 4,
+    reference: '74249',
+    date_add: 2022-02-17T21:08:01.000Z,
+    date_upd: 2022-02-17T21:08:01.000Z
+  },
+  RowDataPacket {
+    id_product: 33222,
+    id_supplier: 4,
+    reference: '143895',
+    date_add: 2022-02-17T21:08:19.000Z,
+    date_upd: 2022-02-17T21:08:19.000Z
+  },
+  RowDataPacket {
+    id_product: 33223,
+    id_supplier: 4,
+    reference: '192444',
+    date_add: 2022-02-17T21:08:24.000Z,
+    date_upd: 2022-02-17T21:08:24.000Z
+  },
+  RowDataPacket {
+    id_product: 33224,
+    id_supplier: 4,
+    reference: '87824',
+    date_add: 2022-02-17T21:08:26.000Z,
+    date_upd: 2022-02-17T21:08:26.000Z
+  }
+]

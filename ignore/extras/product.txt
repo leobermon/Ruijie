@@ -1,0 +1,98 @@
+{
+  '19380': RowDataPacket {
+    id_product: 19380,
+    id_supplier: 4,
+    reference: '162409',
+    id_order: 3756
+  },
+  '19692': RowDataPacket {
+    id_product: 19692,
+    id_supplier: 4,
+    reference: '75489',
+    id_order: 3758
+  },
+  '19705': RowDataPacket {
+    id_product: 19705,
+    id_supplier: 4,
+    reference: '170761',
+    id_order: 3651
+  },
+  '19707': RowDataPacket {
+    id_product: 19707,
+    id_supplier: 4,
+    reference: '65833',
+    id_order: 3554
+  },
+  '19721': RowDataPacket {
+    id_product: 19721,
+    id_supplier: 4,
+    reference: '160318',
+    id_order: 3612
+  },
+  '19739': RowDataPacket {
+    id_product: 19739,
+    id_supplier: 4,
+    reference: '65979',
+    id_order: 3750
+  },
+  '19742': RowDataPacket {
+    id_product: 19742,
+    id_supplier: 4,
+    reference: '1684',
+    id_order: 3815
+  },
+  '19756': RowDataPacket {
+    id_product: 19756,
+    id_supplier: 4,
+    reference: '78561',
+    id_order: 3829
+  },
+  '19806': RowDataPacket {
+    id_product: 19806,
+    id_supplier: 4,
+    reference: '71711',
+    id_order: 3497
+  },
+  '19840': RowDataPacket {
+    id_product: 19840,
+    id_supplier: 4,
+    reference: '168434',
+    id_order: 3651
+  },
+  '19843': RowDataPacket {
+    id_product: 19843,
+    id_supplier: 4,
+    reference: '191572',
+    id_order: 3554
+  },
+  '20011': RowDataPacket {
+    id_product: 20011,
+    id_supplier: 4,
+    reference: '162419',
+    id_order: 3558
+  },
+  '20040': RowDataPacket {
+    id_product: 20040,
+    id_supplier: 4,
+    reference: '183144',
+    id_order: 3809
+  },
+  '20120': RowDataPacket {
+    id_product: 20120,
+    id_supplier: 4,
+    reference: '177955',
+    id_order: 3764
+  },
+  '20743': RowDataPacket {
+    id_product: 20743,
+    id_supplier: 4,
+    reference: '192980',
+    id_order: 3464
+  },
+  '22535': RowDataPacket {
+    id_product: 22535,
+    id_supplier: 4,
+    reference: '154915',
+    id_order: 3667
+  }
+}
