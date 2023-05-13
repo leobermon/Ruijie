@@ -1,5 +1,4 @@
 
-const axios = require('axios').default;
 const _ = require('lodash')
 const db = require('./db')
 const moment = require('moment')
